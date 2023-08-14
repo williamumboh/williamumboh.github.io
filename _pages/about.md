@@ -8,7 +8,7 @@ profile:
   align: right
   image: profilepic-cropped.jpg
   image_circular: false # crops the image to make it circular
-  address: Melbourne Connect (Rm 2329) <be> 700 Swanston St <br> Carlton, VIC 3010
+  address: Melbourne Connect (Rm 2329) <br> 700 Swanston St <br> Carlton, VIC 3010
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
