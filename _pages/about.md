@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: about
 permalink: /
 subtitle: <b> Lecturer in Computational Theory <br> <a href='https://cis.unimelb.edu.au'>School of Computing and Information Systems</a> <br> The University of Melbourne, Australia </b>
 
