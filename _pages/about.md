@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Lecturer in Computational Theory. <a href='https://cis.unimelb.edu.au'>School of Computing and Information Systems, The University of Melbourne, Australia </a>
 
 profile:
   align: right
@@ -21,10 +21,6 @@ social: true  # includes social icons at the bottom of the page
 
 # Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 ---
-
-# Lecturer in Computational Theory
-# School of Computing and Information Systems
-# The University of Melbourne
 
 My research is broadly in theoretical computer science and combinatorial optimisation. I am particularly interested in approximation and online algorithms for optimisation problems involving graphs and metric spaces. One of the main themes in my research is bridging the theory and practice of optimisation under uncertainty. Recently, I have started collaborating with colleagues outside of theoretical computer science to improve the use of algorithms in specific real-world settings such as ride-sharing.
 
