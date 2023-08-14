@@ -8,9 +8,7 @@ profile:
   align: right
   image: profilepic\ cropped3.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>School of Computing and Information Systems</p>
-    <p>The University of Melbourne</p>
+  address: 
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
