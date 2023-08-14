@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Seeun
-middle_name: William
-last_name: Umboh
+first_name: Seeun William Umboh
+middle_name: 
+last_name: 
 email: william.umboh@unimelb.edu.au
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   William Umboh's website. Based on [*folio](https://github.com/bogoli/-folio) design.
@@ -182,7 +182,7 @@ announcements:
   limit: 10 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 
