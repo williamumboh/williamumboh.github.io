@@ -8,7 +8,7 @@ profile:
   align: right
   image: profilepic-cropped.jpg
   image_circular: false # crops the image to make it circular
-  address: >
+  address: 
   <p>Melbourne Connect, Rm 2329</p>
   <p>700 Swanston St</p>
   <p>Carlton, VIC 3010</p>
