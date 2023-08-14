@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Lecturer in Computational Theory. <a href='https://cis.unimelb.edu.au'>School of Computing and Information Systems, The University of Melbourne, Australia </a>
+subtitle: Lecturer in Computational Theory <br> <a href='https://cis.unimelb.edu.au'>School of Computing and Information Systems</a>, The University of Melbourne, Australia 
 
 profile:
   align: right
