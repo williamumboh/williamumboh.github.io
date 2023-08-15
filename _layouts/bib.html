@@ -29,11 +29,11 @@
 
         <!-- Entry bib key -->
         <div id="{{entry.key}}" class="col-sm-8">
-        <!-- Title -->
+        <!-- Title (links to url entry) -->
         <div class="title">
-        {% if entry.url %} <a href={{entry.url}}> {% end if %}
+        {% if entry.url %} <a href={{entry.url}}> {% endif %}
         {{entry.title}}
-        {% if entry.url %}</a>{% end if %}
+        {% if entry.url %}</a>{% endif %}
         </div>
         <!-- Author -->
         <div class="author">
