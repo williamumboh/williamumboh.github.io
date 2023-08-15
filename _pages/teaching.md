@@ -20,7 +20,8 @@ I am passionate about sharing the joy of algorithmic problem-solving with studen
 1. Sampson Wong (completed 2019, co-supervised)
 
 ### Honours (USyd)
-7. Ningyuan Xie (completed 2022, First Class Honours with **University Medal**)
+7. Ningyuan Xie (completed 2022)
+ * First Class Honours with **University Medal**
 6. Thomas Schwarz (completed 2022, First Class Honours with **University Medal**)
 5. Alan Wu (completed 2022, First Class Honours)
 4. Ryder Chen (completed 2021, First Class Honours with **University Medal**)
