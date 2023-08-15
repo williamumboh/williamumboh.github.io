@@ -22,12 +22,23 @@ I am passionate about sharing the joy of algorithmic problem-solving with studen
 ### Honours (USyd)
 7. Ningyuan Xie (completed 2022)
  * First Class Honours with **University Medal**
-6. Thomas Schwarz (completed 2022, First Class Honours with **University Medal**)
-5. Alan Wu (completed 2022, First Class Honours)
-4. Ryder Chen (completed 2021, First Class Honours with **University Medal**)
+ * Thesis: Non-Clairvoyant Multi-Level Aggregation Problem with Delay
+6. Thomas Schwarz (completed 2022)
+ * First Class Honours with **University Medal**
+ * Thesis: I got 99 problems but they’re actually 1 A reduction hierarchy for online problems with metric spaces and delay
+5. Alan Wu (completed 2022)
+ * First Class Honours
+ * Thesis: Online Multi-Level Aggregation Problem
+4. Ryder Chen (completed 2021) 
+ * First Class Honours with **University Medal**
+ * Thesis: Online Cardinality Joint Replenishment with Delay
 3. Ngoc Mai Le (completed 2021, First Class Honours with **University Medal** and **Allan Bromley Prize** for best Honours thesis mark in CS)
 2. Ive Zhang (completed 2021, First Class Honours with **University Medal**)
 1. Jahanvi Khatkar (completed 2020, First Class Honours with **University Medal**)
+
+The works in Ningyuan Xie's and Ngoc Mai Le's theses appeared in SODA 2023 as [The Power of Clairvoyance for Multi-Level Aggregation and Set Cover with Delay](https://doi.org/10.1137/1.9781611977554.ch59)
+
+The works in Ryder Chen's and Jahanvi Khatkar's theses in ICALP 2022 as [Online Weighted Cardinality Joint Replenishment Problem with Delay](https://doi.org/10.4230/LIPIcs.ICALP.2022.40)
 
 ### Coursework Projects
 
