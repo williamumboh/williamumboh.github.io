@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 description: 
 nav: true
-nav_order: 5
+nav_order: 2
 ---
 
 I am passionate about sharing the joy of algorithmic problem-solving with students of all levels. At the University of Sydney, I am incredibly grateful to have supervised 7 wonderful Honours students, 6 of whom have received the University Medal, and to have co-authored 2 papers (1 at ICALP 2022 and 1 at SODA 2023) with them. Since 2019, I have been the unit coordinator and lecturer for the third-year algorithms unit COMP3027 and its advanced version COMP3927. I have been awarded the Faculty Unit of Study Survey Commendations 4 times for exceptionally high student ratings.
