@@ -17,6 +17,7 @@ I am passionate about sharing the joy of algorithmic problem-solving with studen
 ### MPhil (USyd)
 3. Yun Li (current, co-supervised)
 2. Lindsey Deryckere (completed 2023)
+ * The works in Lindsey's thesis to appear in APPROX 2023 as Online Matching with Set and Concave Delays
 1. Sampson Wong (completed 2019, co-supervised)
 
 ### Honours (USyd)
@@ -32,13 +33,19 @@ I am passionate about sharing the joy of algorithmic problem-solving with studen
 4. Ryder Chen (completed 2021) 
  * First Class Honours with **University Medal**
  * Thesis: Online Cardinality Joint Replenishment with Delay
-3. Ngoc Mai Le (completed 2021, First Class Honours with **University Medal** and **Allan Bromley Prize** for best Honours thesis mark in CS)
-2. Ive Zhang (completed 2021, First Class Honours with **University Medal**)
-1. Jahanvi Khatkar (completed 2020, First Class Honours with **University Medal**)
+3. Ngoc Mai Le (completed 2021)
+ * First Class Honours with **University Medal** and **Allan Bromley Prize** for best Honours thesis mark in CS
+ * Thesis: Non-clairvoyant problems with Deadlines or Delay
+2. Ive Zhang (completed 2021) 
+ * First Class Honours with **University Medal**
+ * Thesis: The Online Constrained Forest Problem and Its Leasing Variant
+1. Jahanvi Khatkar (completed 2020) 
+ * First Class Honours with **University Medal**
+ * Thesis: Online Joint Replacement with Deadline on Subadditive Cost
 
-The works in Ningyuan Xie's and Ngoc Mai Le's theses appeared in SODA 2023 as [The Power of Clairvoyance for Multi-Level Aggregation and Set Cover with Delay](https://doi.org/10.1137/1.9781611977554.ch59)
+The works in Ningyuan Xie's and Ngoc Mai Le's theses appeared in SODA 2023: [The Power of Clairvoyance for Multi-Level Aggregation and Set Cover with Delay](https://doi.org/10.1137/1.9781611977554.ch59)
 
-The works in Ryder Chen's and Jahanvi Khatkar's theses in ICALP 2022 as [Online Weighted Cardinality Joint Replenishment Problem with Delay](https://doi.org/10.4230/LIPIcs.ICALP.2022.40)
+The works in Ryder Chen's and Jahanvi Khatkar's theses appeared in ICALP 202P: [Online Weighted Cardinality Joint Replenishment Problem with Delay](https://doi.org/10.4230/LIPIcs.ICALP.2022.40)
 
 ### Coursework Projects
 
