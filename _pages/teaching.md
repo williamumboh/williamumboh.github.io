@@ -43,9 +43,13 @@ I am passionate about sharing the joy of algorithmic problem-solving with studen
  * First Class Honours with **University Medal**
  * Thesis: Online Joint Replacement with Deadline on Subadditive Cost
 
+#### Notes:
+
 The works in Ningyuan Xie's and Ngoc Mai Le's theses appeared in SODA 2023: [The Power of Clairvoyance for Multi-Level Aggregation and Set Cover with Delay](https://doi.org/10.1137/1.9781611977554.ch59)
 
 The works in Ryder Chen's and Jahanvi Khatkar's theses appeared in ICALP 202P: [Online Weighted Cardinality Joint Replenishment Problem with Delay](https://doi.org/10.4230/LIPIcs.ICALP.2022.40)
+
+At the University of Sydney, the University Medal is awarded to Honours students with an outstanding research thesis and an exceptional level of achievement across the whole degree program.
 
 ### Coursework Projects
 
