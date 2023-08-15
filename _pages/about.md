@@ -2,13 +2,13 @@
 layout: about
 title: About
 permalink: /
-subtitle: <b> Lecturer in Computational Theory <br> <a href='https://cis.unimelb.edu.au'>School of Computing and Information Systems</a> <br> The University of Melbourne, Australia </b>
+subtitle: <b> Lecturer in Computational Theory <br> <a href='https://cis.unimelb.edu.au'>School of Computing and Information Systems</a> <br> The University of Melbourne, Australia <br> Melbourne Connect, Rm 2329 <br> 700 Swanston St, Carlton, VIC 3010</b>
 
 profile:
   align: right
   image: profilepic-cropped.jpg
   image_circular: false # crops the image to make it circular
-  address: Melbourne Connect (Rm 2329) <br> 700 Swanston St <br> Carlton, VIC 3010
+  address: 
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
