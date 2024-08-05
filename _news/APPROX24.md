@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-Two papers accepted to APPROX 2024! 
+**2 papers** accepted to **APPROX 2024**! 
 
 * [Universal Optimization for Non-Clairvoyant Subadditive Joint Replenishment](https://arxiv.org/abs/2407.15809) with Tomer Ezra, Stefano Leonardi, Michał Pawłowski and Matteo Russo.
 
