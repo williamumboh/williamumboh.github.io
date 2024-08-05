@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am excited to join the SODA25 PC!
+I am excited to join the **SODA 2025** PC!
