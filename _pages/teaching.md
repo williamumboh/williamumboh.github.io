@@ -11,14 +11,26 @@ I am passionate about sharing the joy of algorithmic problem-solving with studen
 
 ## Advising
 
+### PhD (UniMelb)
+#### Principal Supervisor
+2. Gerald Huang 
+1. Xiao Sun 
+   
+#### Co-supervisor
+5. Tian Qiu
+4. Jiajia Song 
+3. Zhuo Zhang 
+2. Peaker Guo 
+1. Phil Cervenjak 
+
 ### PhD (USyd)
-1. Sampson Wong (completed 2023, co-supervised)
+1. Sampson Wong (completed 2023, co-supervisor)
 
 ### MPhil (USyd)
-3. Yun Li (current, co-supervised)
-2. Lindsey Deryckere (completed 2023)
+3. Yun Li (submitted 2024, co-supervisor)
+2. Lindsey Deryckere (completed 2023, principal supervisor)
  * The works in Lindsey's thesis to appear in APPROX 2023 as Online Matching with Set and Concave Delays
-1. Sampson Wong (completed 2019, co-supervised)
+1. Sampson Wong (completed 2019, co-supervisor)
 
 ### Honours (USyd)
 7. Ningyuan Xie (completed 2022)
