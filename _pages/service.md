@@ -8,6 +8,10 @@ nav_order: 3
 ---
 
 ## Program Committees
+13. SODA 2025
+12. FSTTCS 2024
+11. ESA 2024
+10. TAMC 2024
 9. LATIN 2024
 8. ISAAC 2023
 7. SODA 2022
