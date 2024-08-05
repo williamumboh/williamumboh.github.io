@@ -21,7 +21,7 @@ I am passionate about sharing the joy of algorithmic problem-solving with studen
 4. Jiajia Song 
 3. Zhuo Zhang 
 2. Peaker Guo 
-1. Phil Cervenjak 
+1. Phil Cervenjak
 
 ### PhD (USyd)
 1. Sampson Wong (completed 2023, co-supervisor)
@@ -59,7 +59,7 @@ I am passionate about sharing the joy of algorithmic problem-solving with studen
 
 The works in Ningyuan Xie's and Ngoc Mai Le's theses appeared in SODA 2023: [The Power of Clairvoyance for Multi-Level Aggregation and Set Cover with Delay](https://doi.org/10.1137/1.9781611977554.ch59)
 
-The works in Ryder Chen's and Jahanvi Khatkar's theses appeared in ICALP 202P: [Online Weighted Cardinality Joint Replenishment Problem with Delay](https://doi.org/10.4230/LIPIcs.ICALP.2022.40)
+The works in Ryder Chen's and Jahanvi Khatkar's theses appeared in ICALP 2022: [Online Weighted Cardinality Joint Replenishment Problem with Delay](https://doi.org/10.4230/LIPIcs.ICALP.2022.40)
 
 At the University of Sydney, the University Medal is awarded to Honours students with an outstanding research thesis and an exceptional level of achievement across the whole degree program.
 
