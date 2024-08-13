@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New paper in <b>Algorithmica</b>: "The Online Broadcast Range-Assignment Problem" with Mark de Berg and Aleksandar Markovic. This is a journal version of our paper in ISAAC 2020.
+New paper in **Algorithmica**: "The Online Broadcast Range-Assignment Problem" with Mark de Berg and Aleksandar Markovic. This is a journal version of our paper in ISAAC 2020.
