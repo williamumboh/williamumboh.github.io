@@ -8,6 +8,7 @@ nav_order: 3
 ---
 
 ## Program Committees
+14. ICALP 2025
 13. SODA 2025
 12. FSTTCS 2024
 11. ESA 2024
