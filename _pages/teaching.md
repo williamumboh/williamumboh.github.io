@@ -17,6 +17,7 @@ I am passionate about sharing the joy of algorithmic problem-solving with studen
 1. Xiao Sun 
    
 #### Co-supervisor
+6. Fengnian Liu
 5. Tian Qiu
 4. Jiajia Song 
 3. Zhuo Zhang 
@@ -72,6 +73,10 @@ Alan Wu (2021 S2), Ryder Chen (2020 S2), Cameron Eggins (2020 S2), Ive Zhang (20
 Tanishq Dubey (2021), Aryan Gupta (2020), Finn Waugh (Winter 2020), TJ Kojima (Summer 2020), Qiang Qu (Summer 2019)
 
 ## Courses
+- COMP90077 Advanced Algorithms and Data Structures (2024 S1, 2025 S1)
+- COMP10001 Foundations of Computing (2024 S1, 2025 S1)
+- COMP30026 Models of Computation (2023 S2, 2024 S2, 2025 S2)
+
 From 2019 to 2022, I was the subject coordinator and lecturer for COMP3027 and COMP3927 at the University of Sydney.
 
 - 2022 S1: COMP3027 Algorithm Design, COMP3927 Algorithm Design (Advanced), and COMP9123 Data Structures and Algorithms (co-lecturer)
