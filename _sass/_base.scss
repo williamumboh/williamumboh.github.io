@@ -31,6 +31,8 @@ table {
 
   th {
     font-weight: bold;
+    white-space: nowrap;  /* Prevent text from wrapping */
+    width: auto; /* Let the header cell take as much space as needed */
   }
 }
 
