@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am excited to join the **WAOA 2024** PC!
+I am excited to join the **WAOA 2025** PC!

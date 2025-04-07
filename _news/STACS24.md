@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper accepted at STACS 2026: [Colorful Vertex Recoloring of Bipartite Graphs](https://arxiv.org/abs/2501.05796) with Boaz Patt-Shamir and Adi Rosen.
+Paper accepted at **STACS 2025**: [Colorful Vertex Recoloring of Bipartite Graphs](https://arxiv.org/abs/2501.05796) with Boaz Patt-Shamir and Adi Rosen.
