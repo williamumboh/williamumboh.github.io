@@ -13,19 +13,21 @@ I am passionate about sharing the joy of algorithmic problem-solving with studen
 
 ### PhD (UniMelb)
 #### Principal Supervisor
+3. Yixiang Wang (incoming 2026)
 2. Gerald Huang 
 1. Xiao Sun 
    
 #### Co-supervisor
-6. Fengnian Liu
-5. Tian Qiu
-4. Jiajia Song 
-3. Zhuo Zhang 
-2. Peaker Guo 
-1. Phil Cervenjak
+5. Fengnian Liu
+4. Tian Qiu
+3. Jiajia Song 
+2. Zhuo Zhang 
+1. Phil Cervenjak (submitted)
 
-### PhD (USyd)
-1. Sampson Wong (completed 2023, co-supervisor)
+## Alumni
+### PhD
+1. [Peaker Guo] (completed 2025, co-supervisor) -> Assistant Professor at Institute of Science, Tokyo
+2. [Sampson Wong](https://sites.google.com/view/sampsonwong/home) (completed 2023, USyd co-supervisor) -> Postdoc at University of Copenhagen and Marie Curie Fellow
 
 ### MPhil (USyd)
 3. Yun Li (completed 2024, co-supervisor)
