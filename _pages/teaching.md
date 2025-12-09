@@ -26,7 +26,7 @@ I am passionate about sharing the joy of algorithmic problem-solving with studen
 
 ## Alumni
 ### PhD
-1. [Peaker Guo] (completed 2025, co-supervisor) -> Assistant Professor at Institute of Science, Tokyo
+1. [Peaker Guo](https://www.peakerguo.com) (completed 2025, co-supervisor) -> Assistant Professor at Institute of Science, Tokyo
 2. [Sampson Wong](https://sites.google.com/view/sampsonwong/home) (completed 2023, USyd co-supervisor) -> Postdoc at University of Copenhagen and Marie Curie Fellow
 
 ### MPhil (USyd)
