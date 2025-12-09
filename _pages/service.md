@@ -8,7 +8,10 @@ nav_order: 3
 ---
 
 ## Program Committees
+19. ICALP 2026
+18. STOC 2026
 17. STACS 2026
+18. SOSA 2026
 16. ISAAC 2025
 15. WAOA 2025
 14. ICALP 2025
@@ -26,11 +29,15 @@ nav_order: 3
 2. FSTTCS 2018
 1. APPROX 2017
 
-## Workshop Organization
+## Conference/Workshop Organization
+- 2025: [Trends in Approximation and Online Algorithms](https://sites.google.com/view/tao25workshop/home)
+- 2025: [FOCS 2025](https://focs.computer.org/2025/)
+- 2025: [Celebration of TCS](https://sites.google.com/view/celebration-tcs-2025/)
 - 2024: [Australasian Summer School: Recent Trends on Algorithms](https://sites.google.com/view/sydney-tcs-summerschool2024/home)
 - 2022: [AMSI-AustMS Workshop on Bridging Maths and Computer Science](https://sites.google.com/view/2022-workshop-bridgingmathstcs/home)
 
 ## University of Melbourne
+- 2025 - current: Student Engagement Lead - Competition and Awards
 - 2024: Flexi-Space Change Advocate (CS Group) 
 
 ## University of Sydney
