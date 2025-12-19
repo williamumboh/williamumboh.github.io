@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper accepted at RANDOM25: “Local Computation Algorithms for Knapsack: Impossibility Results, and How to Avoid Them” with Clément Canonne and Yun Li.
+Paper accepted at **RANDOM25**: “Local Computation Algorithms for Knapsack: Impossibility Results, and How to Avoid Them” with Clément Canonne and Yun Li.
