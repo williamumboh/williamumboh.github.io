@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper accepted at **AAMAS25**: “A Radius-Sensitive Approximation Algorithm for Connected Submodular Maximization” with Philip Cervenjak, Junhao Gan, Naonori Kakimura and Tony Wirth.
+Paper accepted at **AAMAS26**: “A Radius-Sensitive Approximation Algorithm for Connected Submodular Maximization” with Philip Cervenjak, Junhao Gan, Naonori Kakimura and Tony Wirth.
