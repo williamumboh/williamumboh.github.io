@@ -8,6 +8,7 @@ nav_order: 3
 ---
 
 ## Program Committees
+20. ISAAC 2026
 19. ICALP 2026
 18. STOC 2026
 17. STACS 2026
