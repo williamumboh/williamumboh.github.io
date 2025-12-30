@@ -13,7 +13,7 @@ profile:
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 
 # Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
@@ -26,4 +26,4 @@ My research is broadly in theoretical computer science and combinatorial optimis
 
 Previously, I was a Lecturer in Algorithms and Honours Coordinator at the School of Computer Science, University of Sydney. Before that, I was fortunate to be a postdoc with Prof. Nikhil Bansal at TU Eindhoven. I was also a Visiting Professor at the Hebrew University of Jerusalem (hosted by Prof. Yair Bartal) from Oct 2017 - Jan 2018 and a Visiting Postdoc at the Simons Institute for the Algorithms and Uncertainty (Fall 2016) and Fine-Grained Complexity (Fall 2017) programs. I received my PhD in Computer Science at the University of Wisconsin-Madison, where I was blessed to be co-advised by Profs. Shuchi Chawla and Eric Bach. I also have an MSc in Computer Science and a BSc majoring in Computer Science and Mathematics, all from UW-Madison.
 
-
+[OrcID](https://orcid.org/0000-0001-6984-4007) [DBLP](https://dblp.org/pid/182/2576) [Google Scholar](https://scholar.google.com/citations?user=Wd4ChQ8AAAAJ&hl=en) [Bluesky](https://bsky.app/profile/did:plc:umhkaicgesob3rvhyrhy42jg) [LinkedIn](https://www.linkedin.com/in/seeun-william-umboh-b5049b251)
