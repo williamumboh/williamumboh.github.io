@@ -7,28 +7,20 @@ nav: true
 nav_order: 3
 ---
 
-## Program Committees
-20. ISAAC 2026
-19. ICALP 2026
-18. STOC 2026
-17. STACS 2026
-18. SOSA 2026
-16. ISAAC 2025
-15. WAOA 2025
-14. ICALP 2025
-13. SODA 2025
-12. FSTTCS 2024
-11. ESA 2024
-10. TAMC 2024
-9. LATIN 2024
-8. ISAAC 2023
-7. SODA 2022
-6. APPROX 2022
-5. LATIN 2022
-4. WAOA 2022
-3. SOSA 2021
-2. FSTTCS 2018
-1. APPROX 2017
+## Program Committees (20)
+Note: In Theoretical Computer Science, program committees have only two levels, the chair (or 2 co-chairs) and the program committee members. 
+- Symposium on Theory of Computing (STOC): 2026
+- Symposium on Discrete Algorithms (SODA): 2025, 2022
+- International Colloquium on Automata, Languages and Programming (ICALP): 2025, 2026
+- Symposium on Simplicity in Algorithms (SOSA): 2026, 2021
+- European Symposium on Algorithms (ESA): 2024
+- International Conference on Approximation Algorithms for Combinatorial Optimization Problems (APPROX): 2022, 2017
+- International Symposium on Algorithms and Computation (ISAAC): 2025, 2023
+- International Symposium on Theoretical Aspects of Computer Science (STACS): 2026 
+- Foundations of Software Technology and Theoretical Computer Science (FSTTCS): 2018, 2024
+- Latin American Theoretical Informatics Symposium (LATIN): 2024, 2022
+- Workshop on Approximation and Online Algorithms (WAOA): 2025, 2022
+- Conference on Theory and Applications of Models of Computation (TAMC): 2024
 
 ## Conference/Workshop Organization
 - 2025: [Trends in Approximation and Online Algorithms](https://sites.google.com/view/tao25workshop/home)
