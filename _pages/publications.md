@@ -9,11 +9,11 @@ nav_order: 1
 <!-- _pages/publications.md -->
 <div class="publications">
 
-## Preprints
+<h1> Preprints </h1>
 
 {% bibliography --file preprints %}
 
-## Publications
+<h1> Publications </h1>
 
 {% bibliography -f {{ site.scholar.bibliography }} %}
 
