@@ -7,19 +7,23 @@ nav: true
 nav_order: 3
 ---
 
-## Program Committees (20)
-Note: In Theoretical Computer Science, program committees have only two levels, the chair (or 2 co-chairs) and the program committee members. 
-- Symposium on Theory of Computing (STOC): 2026
-- Symposium on Discrete Algorithms (SODA): 2025, 2022
-- International Colloquium on Automata, Languages and Programming (ICALP): 2025, 2026
-- Symposium on Simplicity in Algorithms (SOSA): 2026, 2021
+## Editorial Board
+- [Theoretical Computer Science](https://www.sciencedirect.com/journal/theoretical-computer-science)
+
+## Program Committees
+I have served/will serve on 21 conference program committees. 
+Note: In Theoretical Computer Science, program committees have only two levels, the chair (or 2 co-chairs) and the program committee members. The program committees in the last two years are in **bold**.
+- Symposium on Theory of Computing (STOC): **2026**
+- Symposium on Discrete Algorithms (SODA): **2025**, 2022
+- International Colloquium on Automata, Languages and Programming (ICALP): **2026**, **2025**
+- Symposium on Simplicity in Algorithms (SOSA): **2026**, 2021
 - European Symposium on Algorithms (ESA): 2024
 - International Conference on Approximation Algorithms for Combinatorial Optimization Problems (APPROX): 2022, 2017
-- International Symposium on Algorithms and Computation (ISAAC): 2025, 2023
-- International Symposium on Theoretical Aspects of Computer Science (STACS): 2026 
+- International Symposium on Algorithms and Computation (ISAAC): **2026**, **2025**, 2023
+- International Symposium on Theoretical Aspects of Computer Science (STACS): **2026** 
 - Foundations of Software Technology and Theoretical Computer Science (FSTTCS): 2018, 2024
 - Latin American Theoretical Informatics Symposium (LATIN): 2024, 2022
-- Workshop on Approximation and Online Algorithms (WAOA): 2025, 2022
+- Workshop on Approximation and Online Algorithms (WAOA): **2025**, 2022
 - Conference on Theory and Applications of Models of Computation (TAMC): 2024
 
 ## Conference/Workshop Organization
