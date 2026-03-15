@@ -9,21 +9,21 @@ nav_order: 2
 
 ## PhD (UniMelb)
 ### Principal Supervisor
-3. Yixiang Wang (incoming 2026)
+1. Yixiang Wang 
 2. Gerald Huang 
-1. Xiao Sun 
+3. Xiao Sun 
    
 ### Co-supervisor
-6. Fengnian Liu
-5. Tian Qiu
-4. Jiajia Song
-3. Sam Thomas (submitted)
-2. Zhuo Zhang (submitted)
-1. Phil Cervenjak (submitted)
+1. Fengnian Liu
+2. Tian Qiu
+3. Jiajia Song
+4. Sam Thomas (submitted)
+5. Zhuo Zhang (submitted)
 
 ## Alumni
 ### PhD (UniMelb)
 1. [Peaker Guo](https://www.peakerguo.com) (completed 2025, co-supervisor) -> Assistant Professor at Institute of Science, Tokyo
+2. Phil Cervenjak (completed 2026, co-supervisor)
 
 ### PhD (USyd)
 3. [Sampson Wong](https://sites.google.com/view/sampsonwong/home) (completed 2023, co-supervisor) -> Postdoc at University of Copenhagen and Marie Curie Fellow
