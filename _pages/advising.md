@@ -9,9 +9,9 @@ nav_order: 2
 
 ## PhD (UniMelb)
 ### Principal Supervisor
-1. Yixiang Wang 
+1. [Yixiang Wang](https://yixiangwang.uk/)
 2. Gerald Huang 
-3. Xiao Sun 
+3. [Xiao Sun](https://sites.google.com/view/xsunshomepage/home) 
    
 ### Co-supervisor
 1. Fengnian Liu
